@@ -1,6 +1,6 @@
 ### Hi there! 👋  I'm Alexey
 
-## I'm an iOS developer
+## I'm an iOS Developer
 
 - I like to write code 👈
 - I like to write music at FL Studio 🎧
