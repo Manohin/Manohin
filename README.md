@@ -16,7 +16,7 @@
 
 <br />
 
-[website]: http://manohin.ru/
+[website]: https://manohin.ru/
 [linkedin]: https://www.linkedin.com/in/manohin//
 [instagram]: https://www.instagram.com/amanohin/
 [vk]: https://vk.com/manohin
