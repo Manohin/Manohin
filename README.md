@@ -26,7 +26,7 @@
 
 <img src="https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=Swift&logoColor=orange"/> <img src="https://img.shields.io/badge/Xcode-white?style=for-the-badge&logo=Xcode&logoColor=blue"/> <img src="https://img.shields.io/badge/SwiftUI-white?style=for-the-badge&logo=swift&logoColor=blue"/> <img src="https://img.shields.io/badge/JSON-white?style=for-the-badge&logo=JSON&logoColor=red"/> <img src="https://img.shields.io/badge/iOS-white?style=for-the-badge&logo=ios&logoColor=red"/> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=orange"/> <img src="https://img.shields.io/badge/CocoaPods-white?style=for-the-badge&logo=CocoaPods&logoColor=red"/> <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"/>
 
-####
+### Codewars:
 
 [![codewars](https://www.codewars.com/users/Manohin/badges/large)](https://www.codewars.com/users/Manohin)
 
