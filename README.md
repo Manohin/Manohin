@@ -1,13 +1,9 @@
-### Hi there! 👋  I'm Alexey
+### Добро пожаловать! 👋  
 
-## I'm an iOS Developer
-
-- I like to write code 👈
-- I like to write music at FL Studio 🎧
-- I like running a YouTube channel 🎬
+#### Меня зовут Алексей и я - iOS разработчик
 
 
-### Connect with me:
+## Связаться со мной:
 
 [<img align="left" alt="Manohin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/HTTP_logo.svg" />][website]
 [<img align="left" alt="Manohin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
@@ -21,7 +17,7 @@
 [vk]: https://vk.com/manohin
 <br/>
 
-### Languages and Tools:
+### Работаю с:
 
 <img src="https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=Swift&logoColor=orange"/> <img src="https://img.shields.io/badge/Xcode-white?style=for-the-badge&logo=Xcode&logoColor=blue"/> 
 <img src="https://img.shields.io/badge/SwiftUI-white?style=for-the-badge&logo=swift&logoColor=blue"/> 
