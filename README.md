@@ -9,23 +9,17 @@
 
 ### Connect with me:
 
-
-
-
-
-
 [<img align="left" alt="Manohin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/HTTP_logo.svg" />][website]
 [<img align="left" alt="Manohin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 [<img align="left" alt="Manohin | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="Manohin | VK" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" />][vk]
-
-<br />
+<br/>
 
 [website]: https://manohin.ru/
 [linkedin]: https://www.linkedin.com/in/manohin/
 [instagram]: https://www.instagram.com/amanohin/
 [vk]: https://vk.com/manohin
-
+<br/>
 
 ### Languages and Tools:
 
