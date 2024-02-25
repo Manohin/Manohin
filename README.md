@@ -35,5 +35,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manohin&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manohin&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manohin&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manohin&theme=vue&utcOffset=3)
 
